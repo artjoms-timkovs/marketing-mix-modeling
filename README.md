@@ -1,4 +1,4 @@
-# Marketing Mix Modeling (Lite)
+# Marketing Mix Modeling for The SED Architecture
 
 This repository demonstrates a framework for **Marketing Mix Modeling (MMM)** using Python.
 It serves as a proof-of-concept for moving beyond deterministic (pixel-based) attribution toward probabilistic measurement.
